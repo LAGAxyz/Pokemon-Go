@@ -24,6 +24,6 @@ Diseña y anima tu propio pokemon en 3D desde cero y con tecnología de Realidad
 1. Hologramas
 2. Realidad Virtual
 3. Realidad Aumentada
-4. Cracterísticas, Diferencias y Usos
+4. Características, Diferencias y Usos
 5. Instalación de programas para el ejemplo práctico
 6. Creación y Animación de pokemon personalizado en 3D
